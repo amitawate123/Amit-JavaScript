@@ -39,10 +39,10 @@
 // let fullname = myName("Amit", "Awate");
 // console.log("Fullname", fullname)
 
-function fullname(firstname,lastname){
-    let fullname = firstname + " "+ lastname
-    return fullname
-}
+// function fullname(firstname,lastname){
+//     let fullname = firstname + " "+ lastname
+//     return fullname
+// }
 
-let ans = fullname("Amit" , "Awate");
-console.log("Fullname", ans)
+// let ans = fullname("Amit" , "Awate");
+// console.log("Fullname", ans)
